@@ -1,2 +1,5 @@
 creation file
 go to hell
+commit
+pull
+push
